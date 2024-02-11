@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      {
+        "text": "Copper Engine",
+        "color": "#ffffff"
+      },
+      {
+        "text": " | ",
+        "color": "#86a697"
+      },
+      {
+        "text": "v1.3.0",
+        "color": "#ffffff"
+      }
+    ]
+  }
+}

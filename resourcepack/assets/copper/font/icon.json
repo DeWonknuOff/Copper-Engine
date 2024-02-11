@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "copper:gui/icon.png",
+            "ascent": 10,
+            "height": 60,
+            "chars": [
+              "\ua000"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "-": 110
+            }
+        },
+        {
+            "type": "space",
+            "advances": {
+                "=": 40
+            }
+        },
+        {
+            "type": "space",
+            "advances": {
+                "+": 70
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "copper:gui/keyboard.png",
+            "ascent": 25,
+            "height": 50,
+            "chars": ["\ua000","\ua001","\ua002"]
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": 4
+            }
+        }
+    ]
+}

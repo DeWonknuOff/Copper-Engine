@@ -1,0 +1,6 @@
+{
+	"parent": "block/jigsaw",
+	"overrides": [
+		{"predicate":{"custom_model_data":999000},"model":"copper:item/empty"}
+	]
+}
