@@ -35,3 +35,4 @@ i don't will longer support objmc for Optifine compatibility, youtubers love a l
 
 first, make your model in Animated Java with two animations: idle & walk.
 
+
