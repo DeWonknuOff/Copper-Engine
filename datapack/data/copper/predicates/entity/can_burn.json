@@ -1,0 +1,41 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "dimension": "minecraft:overworld"
+    }
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "nucleus:world/has_skylight"
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:time_check",
+      "value": {
+        "min": 12542,
+        "max": 23460
+      },
+      "period": 24000
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:reference",
+      "name": "nucleus:world/raining"
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:reference",
+      "name": "nucleus:entity/fire_resistant"
+    }
+  },
+  {
+    "condition": "minecraft:random_chance",
+    "chance": 0.5
+  }
+]
