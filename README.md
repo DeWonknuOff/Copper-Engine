@@ -232,3 +232,10 @@ make another json for get your item, in "foo\loot_tables\items\potato_canon"
     ]
   }
 ```
+
+in "foo:item/potato_canon/click" put the summon command and some effects
+
+```mcfunction
+
+
+```
